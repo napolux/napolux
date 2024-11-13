@@ -15,4 +15,4 @@ If you're italian, check out [**fullremote.it**](https://fullremote.it), the new
 - Proud owner of a nerdy t-shirt collection 👕
 - My rubber ducks solve more bugs than Stack Overflow 🐤
 
-Let's connect and code away! ✨
+[Let's connect](https://napo.dev) and code away! ✨
