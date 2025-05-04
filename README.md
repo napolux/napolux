@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Napo!
+## 👋 Hi, I'm Napo
 
-I'm a Senior Software Engineer who loves frontend development and nerdy stuff. You'll often find me:
+Staff Software Engineer focused on frontend architecture, performance, and developer experience. I work with React, Next.js, TypeScript, Node.js, Go, and GraphQL and I care deeply about code quality, async collaboration, and building things that scale.
 
-- ⌨️ Clicking away on my mechanical keyboard
-- 🦆 Handing out rubber ducks at tech events
-- ☕ Fuelled by coffee and sarcasm
+I’ve contributed to production systems in remote-first teams, mentored engineers, shaped technical direction, and helped improve how teams build and ship software.
 
-### 🚀 Project Highlight
+I also speak at international conferences like [WeAreDevelopers](https://www.wearedevelopers.com/speakers/francesco-napoletano), [Codemotion](https://events.codemotion.com/), and [Open Source Day](https://www.opensource.day/) about frontend engineering, remote work, and developer experience. I've also created [fullremote.it](https://fullremote.it).
 
-If you're italian, check out [**fullremote.it**](https://fullremote.it), the newsletter to mastering remote work!
+---
 
-### Fun Facts
+🔧 **Tech stack highlights**  
+- Frontend: React, Next.js, TypeScript, Astro, Tailwind, Storybook  
+- Backend: Node.js (Express/Fastify), Go, GraphQL, PostgreSQL, Redis  
+- DevOps: Docker, Kubernetes, Terraform (basic), CI/CD (GitHub Actions, Jenkins)  
+- DX & Monitoring: TurboRepo, Webpack, Grafana, Kibana
 
-- Proud owner of a nerdy t-shirt collection 👕
-- My rubber ducks solve more bugs than Stack Overflow 🐤
-
-[Let's connect](https://napo.dev) and code away! ✨
+📬 Let’s connect → [linkedin.com/in/francesconapoletano](https://linkedin.com/in/francesconapoletano)
