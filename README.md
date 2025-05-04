@@ -4,7 +4,7 @@ Staff Software Engineer focused on frontend architecture, performance, and devel
 
 I’ve contributed to production systems in remote-first teams, mentored engineers, shaped technical direction, and helped improve how teams build and ship software.
 
-I also speak at international conferences like [WeAreDevelopers](https://www.wearedevelopers.com/speakers/francesco-napoletano), [Codemotion](https://events.codemotion.com/), and [Open Source Day](https://www.opensource.day/) about frontend engineering, remote work, and developer experience. I've also created [fullremote.it](https://fullremote.it).
+I also speak at international conferences like [WeAreDevelopers](https://www.wearedevelopers.com/), [Codemotion](https://events.codemotion.com/), and [Open Source Day](https://www.osday.dev/) about frontend engineering, remote work, and developer experience. I've also created [fullremote.it](https://fullremote.it).
 
 ---
 
