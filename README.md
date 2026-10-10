@@ -14,4 +14,4 @@ I also speak at international conferences like [WeAreDevelopers](https://www.wea
 - DevOps: Docker, Kubernetes, Terraform (basic), CI/CD (GitHub Actions, Jenkins)  
 - DX & Monitoring: TurboRepo, Webpack, Grafana, Kibana
 
-📬 Let’s connect → [linkedin.com/in/francesconapoletano](https://linkedin.com/in/francesconapoletano)
+📬 [Instagram](https://www.instagram.com/napo.dev) · [TikTok](https://www.tiktok.com/@napo.dev) · [LinkedIn](https://www.linkedin.com/in/francesconapoletano/) · [X](https://x.com/napodev) · [Bluesky](https://bsky.app/profile/napo.dev)
