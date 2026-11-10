@@ -14,8 +14,8 @@ I also speak at international conferences like [WeAreDevelopers](https://www.wea
 - DevOps: Docker, Kubernetes, Terraform (basic), CI/CD (GitHub Actions, Jenkins)  
 - DX & Monitoring: TurboRepo, Webpack, Grafana, Kibana
 
-<a href="https://www.instagram.com/napo.dev"><img src="icons/instagram.svg" alt="Instagram" title="Instagram" width="28" height="28"></a>&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@napo.dev"><img src="icons/tiktok.svg" alt="TikTok" title="TikTok" width="28" height="28"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/francesconapoletano/"><img src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="28" height="28"></a>&nbsp;&nbsp;
-<a href="https://x.com/napodev"><img src="icons/x.svg" alt="X" title="X" width="28" height="28"></a>&nbsp;&nbsp;
-<a href="https://bsky.app/profile/napo.dev"><img src="icons/bluesky.svg" alt="Bluesky" title="Bluesky" width="28" height="28"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/napo.dev"><img src="icons/instagram.svg?v=2" alt="Instagram" title="Instagram" width="28" height="28"></a>&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@napo.dev"><img src="icons/tiktok.svg?v=2" alt="TikTok" title="TikTok" width="28" height="28"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/francesconapoletano/"><img src="icons/linkedin.svg?v=2" alt="LinkedIn" title="LinkedIn" width="28" height="28"></a>&nbsp;&nbsp;
+<a href="https://x.com/napodev"><img src="icons/x.svg?v=2" alt="X" title="X" width="28" height="28"></a>&nbsp;&nbsp;
+<a href="https://bsky.app/profile/napo.dev"><img src="icons/bluesky.svg?v=2" alt="Bluesky" title="Bluesky" width="28" height="28"></a>&nbsp;&nbsp;
